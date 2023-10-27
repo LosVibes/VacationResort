@@ -1,0 +1,39 @@
+
+body{
+    background-color: #fffbf094;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+}
+li{
+    size: 10em;
+    color: rgb(0, 0, 0);
+}
+
+label{
+    margin: 1rem;
+}
+input{
+    margin: 1rem;
+}
+button{
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+fieldset{
+    width: 90%;
+    margin: auto;
+}
+fieldset, label{
+    text-align: left;
+    display: inline-block;
+    min-width: 20vw;
+}
+#submit{
+    text-align: center;
+    margin-left: 50%;
+}
